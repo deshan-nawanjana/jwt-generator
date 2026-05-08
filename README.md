@@ -4,6 +4,12 @@ JWT is the most popular token method to share secured data between a client and 
 
 Launch Now: [https://deshan.lk/apps/jwt-generator](https://deshan.lk/apps/jwt-generator)
 
+JWT Module for various languages:
+
+- [JavaScript](./assets/modules/JWT.js)
+- [Python](./assets/modules/JWT.py)
+- [PHP](./assets/modules/JWT.php)
+
 ## Key Features
 
 - JSON Web Tokens (JWT) generating, decoding, and validating features.
